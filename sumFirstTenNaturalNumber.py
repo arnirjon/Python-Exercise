@@ -1,3 +1,5 @@
+#Sum first 10 natural numbers
+
 # input_number = int(input("Enter the number: "))
 
 n = 0
